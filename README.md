@@ -6,14 +6,14 @@ In this notebook, I explore the intriguing world of loan default prediction, har
 
 ### Notebook Overview:
 
-✔️ Exploratory Data Analysis
-✔️ Data Validation
-✔️ Data Cleaning
-✔️ Feature Engineering
-✔️ Model Selection
-✔️ Model Tuning and Evaluation
-✔️ Feature Importance
-
+✔️ Exploratory Data Analysis<br>
+✔️ Data Validation<br>
+✔️ Data Cleaning<br>
+✔️ Feature Engineering<br>
+✔️ Model Selection<br>
+✔️ Model Tuning and Evaluation<br>
+✔️ Feature Importance<br>
+<br>
 I truly appreciate your support! If you find this notebook helpful, kindly consider upvoting it and sharing it with your fellow data enthusiasts. Your feedback and advice are immensely valuable in honing my data science skills and improving the quality of this project. 📈
 
 So, let's embark on this exciting adventure into the world of credit risk prediction together. Are you ready? Let's dive in! ⚡️
