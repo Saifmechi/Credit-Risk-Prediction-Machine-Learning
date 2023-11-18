@@ -20,6 +20,6 @@ So, let's embark on this exciting adventure into the world of credit risk predic
 
 Read, upvote, and share the Home Credit Default Risk Prediction Notebook! ⬇️🔗
 
-[Home Credit Default Risk Prediction Notebook](https://lnkd.in/e4zxB7v4)
+[Home Credit Default Risk Prediction Notebook](https://github.com/Saifmechi/Credit-Risk-Prediction-Machine-Learning/blob/main/credit-default-risk.ipynb)
 
 #DataScience #MachineLearning #CreditRiskAnalysis
